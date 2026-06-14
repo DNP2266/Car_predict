@@ -35,6 +35,5 @@ Chạy từng cell theo thứ tự. Sau khi hoàn thành, lưu biểu đồ vào
 
 ## Ghi chú
 
-- `data/train.csv`: dữ liệu có nhãn `Price` — dùng để EDA, huấn luyện và chia train/test nội bộ.
-- `data/test.csv`: file test ngoài (cột `Price` có thể trống).
+- `data/df_car.csv`: dữ liệu có nhãn `Price` — dùng để EDA, huấn luyện và chia train/test nội bộ.
 - `report.md`: báo cáo kết quả (điền sau khi chạy xong notebook).
